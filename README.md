@@ -19,4 +19,5 @@ Core Logic:
  - Showing city specific data in Chart(used MpChart Library).
 
 Time Taken:  
-Due to health issue didnt get much time to work.Completed all this task in 6-7 hours.
+Due to health issue didnt get much time to work.Completed all this task in 6-7 hours.  
+Tested Aplication on Oppo A3s version 8 (Api level 26)
